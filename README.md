@@ -1,10 +1,13 @@
-Guess Shrek's Number
+# Guess Shrek's Number
 
-I made this game as a final project for my CHE120 project!
+## Overview
 
-It was a creative way to showcase the skills I learned throughout the course, obtain new abilities in Python, and apply them to Pygame. 
+"Guess Shrek's Number" is a Shrek-themed twist on the classic "Guess the Number" game. Developed as a final project for my CHE120 class, this game allowed me to creatively apply and extend my Python skills, particularly using Pygame.  
 
-The task of this project was to take a well-known game, change some rules and apply some graphics. My group members and I took the game "Guess The Number" that was based on CLUI and updated using graphics from the well known game "Shrek" to make a a GUI-based game. This was done through the use of buttons, text displayed and updated on a screen, while loops, functions for game functionality, and for loops to detect game events.
+This project involved:  
+- Transforming a command-line version of "Guess the Number" into a **graphical user interface (GUI)** game. 
+- Incorporating **Shrek-inspired visuals** for an engaging user experience.  
+- Using Python programming concepts such as **loops**, **functions**, and **event handling**.
 
 # Shrek-Themed Guess The Number Game
 
