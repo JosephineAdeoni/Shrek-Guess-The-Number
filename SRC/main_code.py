@@ -28,7 +28,7 @@ button_colour = (73, 146, 70)
 
 # Set up screen
 screen = pygame.display.set_mode((screen_width, screen_height))
-background = pygame.image.load('shrek_background.jpg')  # Ensure this file exists
+background = pygame.image.load('../ASSETS/shrek_background.jpg')  # Ensure this file exists
 pygame.display.set_caption("Shrek's Swampy Secret")
 
 # Function to display text
