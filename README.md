@@ -25,7 +25,6 @@ amount of guesses:
 2. Guess the number between 1 and 50 that Shrek is thinking of. If guessed incorrectly, you will be eaten by Shrek!
 
 ## Gameplay Screenshots
-## Gameplay Screenshots
 ![Menu Screen](GAMEPLAY_IMAGES/Menu_screen.png)
 ![Screen of Each level](GAMEPLAY_IMAGES/Generic_level_screen.png)
 ![Feedback that guess is too low](GAMEPLAY_IMAGES/Feedback_guess_too_low.png)
