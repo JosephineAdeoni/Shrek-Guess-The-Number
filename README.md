@@ -18,6 +18,6 @@ This game is a Shrek-themed take on the classic "Guess the Number" game. It feat
 2. Run `src/main.py`.
 
 ## Directory Structure
-- `assets/`: Contains game media (images, sounds, fonts).
-- `src/`: Contains the Python source code.
+- `ASSETS/`: Contains the background image (game media).
+- `SRC/`: Contains the Python source code.
 - `requirements.txt`: Python dependencies.
