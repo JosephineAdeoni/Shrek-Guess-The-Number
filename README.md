@@ -19,13 +19,16 @@ amount of guesses:
 - Easy: 15 guesses
 - Medium: 10 guesses
 - Hard: 5 guesses
-2. Guess the number between 1 and 50 that Shrek is thinking of. If guessed incorrectly, you will be eaten!
+2. Guess the number between 1 and 50 that Shrek is thinking of. If guessed incorrectly, you will be eaten by Shrek!
 
 ## Gameplay Screenshots
-![Menu Screen](GAMEPLAY_IMAGES/Gameplay Image_Menu Screen)
-![Screen of Each level](GAMEPLAY_IMAGES/Gameplay Image_Generic Game Screen)
-![Winning Feedback](GAMEPLAY_IMAGES/Gameplay Image_Winning Guess)
-![Losing Feedback](GAMEPLAY_IMAGES/Gameplay Image_Losing Guess)
+![Menu Screen](GAMEPLAY%20IMAGES/Menu_screen.png)
+![Screen of Each level](GAMEPLAY%20IMAGES/Generic_level_screen.png)
+![Feedback that guess is too low](GAMEPLAY%20IMAGES/Feedback_guess_too_low.png)
+![Feedback that guess is too high](GAMEPLAY%20IMAGES/Feedback_guess_too_high.png)
+![Winning Feedback](GAMEPLAY%20IMAGES/Winning_guess.png)
+![Losing Feedback](GAMEPLAY%20IMAGES/Losing_guess.png)
+
 
 ## How to Run
 1. Install Python 3 and Pygame.
