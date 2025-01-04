@@ -45,5 +45,5 @@ amount of guesses:
 
 ### Contributers
 - Josephine Adeoni.
-- Amariah Archibong
+- Amariah Archibong.
 - Lily Dang.
